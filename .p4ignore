@@ -1,0 +1,15 @@
+.p4config
+.svn
+.git
+.DS_Store
+.p4root
+*.swp
+bin
+doc
+home
+include
+lib
+lib64
+libexec
+share
+!libexec/*.py
